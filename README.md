@@ -1,7 +1,7 @@
 # Mayaguez_NGS_workshop
 
-For tutorials, visit repository Wiki
+For tutorials, visit repository Wiki <br />
 
-Updates:
-20181204 Tutorials complete up to 04 Data processing 2
-20181205 Tutorials complete up to 05 Viewing the data; loading a genome.
+Updates: <br />
+20181204 Tutorials complete up to 04 Data processing 2 <br />
+20181205 Tutorials complete up to 05 Viewing the data; loading a genome. <br />
